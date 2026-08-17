@@ -47,7 +47,7 @@ Jewellery management system for inventory, product listings, and business operat
 | Layer | Technology |
 |---|---|
 | Backend | Django |
-| Database | PostgreSQL / MySQL |
+| Database | Sqlite |
 
 [Code](https://github.com/sabith-dev/GemOra)
 
@@ -60,7 +60,7 @@ Django web application handling end-to-end route and seat/booking logic, built d
 | Layer | Technology |
 |---|---|
 | Backend | Django |
-| Database | PostgreSQL / MySQL |
+| Database | PostgreSQL |
 
 [Code](https://github.com/sabith-dev/Bus-Ticket-Booking-Application)
 
@@ -72,8 +72,8 @@ Django-based platform for students to showcase projects and skills, built to sup
 
 | Layer | Technology |
 |---|---|
-| Backend | Django |
-| Database | PostgreSQL / MySQL |
+| Backend | Django / React |
+| Database | PostgreSQL |
 
 [Code](https://github.com/sabith-dev/Student-Skill-Portfolio-Platform)
 
